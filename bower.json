@@ -1,0 +1,21 @@
+{
+  "name": "psdtoweb1170px12colunas",
+  "homepage": "https://github.com/sdartha/Primeiro-Responsive-full",
+  "authors": [
+    "Sdartha <darthayans@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
